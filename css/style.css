@@ -1,3 +1,17 @@
 #emAndamento{
     text-align: center;
 }
+
+#p1{
+    margin-left: 45%;
+    margin-right: 5%;
+    text-align: justify !important;
+}
+
+#img1{
+    height: 70% !important;
+}
+
+#img2{
+    margin-left: 5%;
+}
